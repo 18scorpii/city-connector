@@ -74,6 +74,3 @@ Mappings : jerseycity -> [newark]
 ## Versioning
 - TODO, its built as snapshot now. 
 
-## Authors
-- **Kamal** - *Initial work* - [18scorpii](https://github.com/18scorpii)
-
